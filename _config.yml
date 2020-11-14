@@ -1,5 +1,3 @@
-title: David's website
-description: It's for Joy.
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -14,4 +12,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+title: csjue's notebook
 theme: jekyll-theme-cayman

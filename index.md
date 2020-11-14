@@ -1,124 +1,21 @@
----
-layout: default
----
+这个网站是用来存放我的markdown笔记，利用GitHub Pages搭建，直接使用官方主题，只要上传markdown就可以自动转换成html，相比在GitHub仓库，这个网站速度要快一点，观感也要好。
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+如果也想尝试，可以查看[教程](_posts/2020-9-26-howtobuild.md)。
 
-[军理论文资料](_posts/军理论文资料收集.md).
-[原来的链接](_posts/another-page.md).
+[C++](_posts/2020-9-24-cpp.md)
 
-There should be whitespace between paragraphs.
+[Java](_posts/2020-10-10-java.md)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[JavaScript](_posts/2020-9-25-JavaScript.md)
 
-# Header 1
+[algorithms](_posts/2020-9-25-algorithms.md)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[SQL](_posts/2020-9-25-SQL.md)
 
-## Header 2
+[Leetcode](_posts/2020-9-25-leetcode.md)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[assembly](_posts/2020-10-14-assembly.md)
 
-### Header 3
+联系方式 csjue_sz@foxmail.com
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+知乎 GitHub：csjue
