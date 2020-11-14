@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./_posts/军理论文资料收集.html).
+[军理论文资料](./_posts/军理论文资料收集.html).
+[原来的链接](./another-page.html).
 
 There should be whitespace between paragraphs.
 
