@@ -4,6 +4,7 @@ title: David's blog
 description: welcome to my website
 ---
 [军理论文资料收集](_posts/2020-11-15-resource.md)
+[对印自卫反击战](_posts/2020-11-15-India.md)
 
 <br>
 #### 给joy的留言版
