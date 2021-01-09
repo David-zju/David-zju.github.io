@@ -13,4 +13,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 title: David's website
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
