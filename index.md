@@ -4,7 +4,7 @@ title: David's blog
 description: welcome to my website
 ---
 #### 学习资料
-军事理论
+军事理论<br>
 [军理论文资料收集](_posts/2020-11-15-resource.md)<br>
 [对印自卫反击战](_posts/2020-11-15-India.md)
 <br>
